@@ -15,13 +15,10 @@ public class Duck {
 	}
 	
 	void quack() {
-		
+		System.out.println("The duck quacked");
 	}
 	
 	void waddle() {
-		
+		System.out.println("The duck ran");
 	}
-	
-	
-	
 }
